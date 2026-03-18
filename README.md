@@ -100,7 +100,7 @@ libopenjp2-7
 
 
 ---
-
+OS : BOOKWORM - (DOWN/UP)GRADE FOR NO ISSUES
 ## ▶️ Usage
 
 Run the application:
